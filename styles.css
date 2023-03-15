@@ -10,6 +10,6 @@ body {
     font-weight: bold;
 }
 .one, .two, .three {
-    width: 100px;
+    width: 200px;
     height: auto;
 }
