@@ -11,5 +11,5 @@ body {
 }
 .one, .two, .three {
     width: 100px;
-    height: 150px;
+    height: auto;
 }
