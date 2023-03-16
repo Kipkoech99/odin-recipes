@@ -9,15 +9,7 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
-.one {
-    height: 200px;
-    width: auto;
-}
-.two {
-    height: 200px;
-    width: auto;
-}
-.three {
-    height: 200px;
+.one, .two, .three {
+    height: 180px;
     width: auto;
 }
