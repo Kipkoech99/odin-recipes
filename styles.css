@@ -10,6 +10,10 @@ body {
     font-weight: bold;
 }
 img {
-    height: 180px;
+    height: 200px;
+    width: auto;
+}
+.img1, .img2, .img3 {
+    height: 250px;
     width: auto;
 }
